@@ -1,5 +1,5 @@
 #import <UIKit/UIKit.h>
-%hook 
+%hook UIDevice
 - (long long)_graphicsQuality {
 return 1;
 }
