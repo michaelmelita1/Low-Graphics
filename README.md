@@ -1,13 +1,7 @@
-# Taptic Centre
+# Low Graphics  
 
-Produces Taptic Feedback when opening Control Centre
+Forces Opacity Effects instead of Blur on low end devices on iOS 9
 
 ## Compatibility
 
-iPhone 7 or later
-
-## Credits
-
-Thank you to Litten whose tweak Rose was used and modified.
-
-Source -  https://github.com/Litteeen/Rose
+iPhone 4S, iPod Touch 5G (Other iOS 9 devices?)
