@@ -1,9 +1,9 @@
-Package: com.michaelmelita1.tapticcentre
-Name: TapticCentre
+Package: com.michaelmelita1.lowgraphics
+Name: LowGraphics
 Depends: mobilesubstrate
-Version: 0.1.1
+Version: 0.0.1
 Architecture: iphoneos-arm
-Description: Taptic Feedback when opening Control Centre
+Description: Replaces Blurs with Transparency Systemwide
 Maintainer: Michael Melita
 Author: Michael Melita
 Section: Tweaks
