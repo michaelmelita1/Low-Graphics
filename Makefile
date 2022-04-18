@@ -1,6 +1,6 @@
 FINALPACKAGE=1
-ARCHS = arm
-TARGET = iphone:9.3
+ARCHS = armv7
+TARGET = iphone:10.3
 
 include $(THEOS)/makefiles/common.mk
 
